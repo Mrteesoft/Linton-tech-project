@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Rubik Glitch', cursive;
+font-family: 'Rubik Puddles', cursive;
+font-family: 'Rubik Wet Paint', cursive;
+}
+
+
+
+.header-section{
+background-image: url(image/background-img.jpg);
+height: 41rem;
+background-size:cover;
+	background-position:center;
+    position: relative;
+}
+
+.header-text{
+background-image: url(image/LONT.jpg);
+}
+.header-container{
+   background-color:#FFF56D;
+}
+.brand-logo{
+    height: 4rem;
+    border-radius: 4rem;
+}
+
+.brand-text{
+    font-size: 3rem;
+    padding-left: 2rem;
+    color: #fff;
+}
+.nav{
+    color: #FFF56D;
+}
+.brand-container{
+    color: #fff;
+    text-align: center;
+}
+
+
+
+/* 
+                   .header-section */
+
+.header-text{
+    padding: 3rem;
+    font-size: 5rem;
+    line-height: 3rem;
+}
+
+.header-text:hover{
+    color: #FFF56D;
+}
+
+.header-img{
+    padding-top: 2rem;
+    height: 20rem;
+}
+
+
+.work-section{
+    padding: 2% 3%;
+    background-color: #FFF56d;
+    color: black;
+}
+
+.work-img-1{
+text-align: center;
+padding: 4% 4%;
+}
+
+.work-img-2{
+    text-align: center;
+    padding-left: 4rem;
+    padding-right: 5rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+
+
+}
+/* .work-heading{
+    text-align: center;
+    font-size: 2rem;
+} */
+
+
+.work-img{
+    height: 20rem;
+    background-position: center;
+    background-size: cover;
+    border-radius: 3rem;
+}
+.work-section-2{
+    margin-top: 2rem;
+}
+
+
+.container-fluid{
+    position: relative;
+    color: #fff;
+    text-align: center;
+
+}
+
+.carousel-text{
+    color: #fff;
+    position: absolute;
+    font-size: 3rem;
+    top: 70%;
+    left: 10rem;
+    right:10rem;
+    bottom: 5rem;
+    text-align: center;
+}
+
+
+.contact-me{
+    text-align: center;
+    background-color: #FFF56D;
+    padding-top: 3rem;
+}
+
+
+.footer{
+    text-align: center;
+    padding: 2% 3%;
+    background-color: #FFD36E;
+}
+
+.footer-container{
+line-height: 3rem;
+letter-spacing: 0.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1028px) {
+    .carousel-text{
+        color: #fff;
+        position: absolute;
+        top: 50%;
+        left: 10rem;
+        right:10rem;
+        bottom: 5rem;
+        text-align: center;
+    }
+    }
