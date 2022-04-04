@@ -165,6 +165,11 @@ background-position:center;
     position: relative;
 }
 
+ .header-img{
+    padding-top: 10rem;
+    height: 10rem;
+}
+
 
 
  .header-text{
