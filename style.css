@@ -52,6 +52,7 @@ background-image: url(image/LONT.jpg);
     padding: 3rem;
     font-size: 5rem;
     line-height: 3rem;
+    color:black;
 }
 
 .header-text:hover{
