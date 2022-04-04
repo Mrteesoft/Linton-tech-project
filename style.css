@@ -163,11 +163,19 @@ color:black;
 .work-img-1{
 text-align: center;
 padding: 4% 4%;
+height: 20rem;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10rem;
 }
 .
 .work-img-2{
 text-align: center;
 padding: 4% 4%;
+height: 20rem;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10rem;
 }
 
 
@@ -182,7 +190,9 @@ padding: 4% 4%;
     right:5rem;
     bottom: 2rem;
     text-align: center;
+
 }
+
 }
 
 @media (min-width:481px)  { 
