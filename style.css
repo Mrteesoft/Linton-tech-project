@@ -149,7 +149,6 @@ letter-spacing: 0.5rem;
 
 
 
-/*
 @media (max-width: 1028px) {
     .carousel-text{
         color: #fff;
@@ -160,4 +159,26 @@ letter-spacing: 0.5rem;
         bottom: 5rem;
         text-align: center;
     }
-    */
+}
+
+@media (max-width: 393px){
+Body{
+text-align: center;
+
+}
+ .header-text{
+font-size: 2rem;
+color:black;
+}
+.carousel-text{
+    color: #fff;
+    position: absolute;
+    font-size: 3rem;
+    top: 50%;
+    left: 5rem;
+    right:5rem;
+    bottom: 2rem;
+    text-align: center;
+}
+}
+    
