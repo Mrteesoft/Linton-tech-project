@@ -164,17 +164,14 @@ background-position:center;
     position: relative;
 }
 
- .header-img{
-    padding-top: 10rem;
-    height: 10rem;
-}
 
 
 
  .header-text{
-font-size: 2rem;
+font-size: 5rem;
 color:black;
 }
+
 .work-img-1{
 text-align: center;
 padding: 4% 4%;
