@@ -2,13 +2,13 @@ body{
     margin: 0;
     padding: 0;
     border: 0;
-    font-family: 'Montserrat', sans-serif;
-font-family: 'Montserrat', sans-serif;
-font-family: 'Open Sans', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
 text-align: center;
 }
 
-
+h1{
+font-family: 'Lexend Deca', sans-serif;
+} 
 
 .header-section{
 background-image: url(background-img.jpg);
